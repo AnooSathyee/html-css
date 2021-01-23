@@ -1,0 +1,49 @@
+div {
+    background-color: lightblue;
+  }
+
+  p {
+    background-color: yellow;
+  }
+
+  li {
+    font-size:16pt;
+}
+
+ul li{
+    font-size:25px;
+    font-family: Arial, Sans-Serif;
+   }
+
+   
+ol li{
+    font-size:25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+   }
+
+   span{
+       background-color: black;
+   }
+
+   img{
+     width: 20%;
+     height: 300px;
+   }
+
+   #bgimg{
+     background-image: linear-gradient(red, yellow);
+     height: 1000px;
+     width: 100%;
+   }
+
+   #bar{
+     font-size:x-large;
+     font-family: 'Times New Roman';
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     background-color: rgb(211, 226, 70);
+    }
+
+    
